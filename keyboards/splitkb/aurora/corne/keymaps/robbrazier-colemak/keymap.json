@@ -62,7 +62,7 @@
       "KC_8",
       "KC_9",
       "KC_0",
-      "KC_DEL",
+      "KC_BSPC",
       "KC_LCTL",
       "KC_NO",
       "KC_NO",
@@ -70,11 +70,11 @@
       "KC_NO",
       "KC_NO",
       "KC_LEFT",
-      "KC_DOWN",
+      "KC_DOWN",  
       "KC_UP",
       "KC_RGHT",
       "KC_NO",
-      "KC_NO",
+      "KC_DEL",
       "KC_LSFT",
       "KC_NO",
       "KC_NO",
@@ -92,7 +92,7 @@
       "KC_SPC",
       "KC_ENT",
       "MO(3)",
-      "KC_RALT"
+      "KC_LALT"
     ],
     [
       "KC_TAB",
@@ -136,7 +136,7 @@
       "KC_SPC",
       "KC_ENT",
       "KC_TRNS",
-      "KC_RALT"
+      "KC_LALT"
     ],
     [
       "QK_BOOT",
@@ -180,7 +180,7 @@
       "KC_SPC",
       "KC_ENT",
       "KC_TRNS",
-      "KC_RALT"
+      "KC_LALT"
     ]
   ],
   "author": "RobBrazier"
